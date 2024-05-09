@@ -1,10 +1,5 @@
 
-/**
- * Fawaz Audu 40239173 and Karim Hanna 40245600
- * The Driver class serves as the main entry point for the Vocabulary Control Center application.
- * It handles user interactions and manipulates a doubly linked list of vocabulary topics,
- * allowing users to browse, add, remove, and modify vocabulary topics and words.
- */
+
 
 
 import java.io.*;
